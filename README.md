@@ -1,6 +1,6 @@
 ![logo](https://github.com/rohitfuleriya/rohitfuleriya/blob/main/fullstack.png)
 <h1 align="center">Hi 👋, I'm Rohit Fuleriya</h1>
-<h3 align="center">A passionate Python FullStack developer from India</h3>
+<h3 align="center">A passionate React JS developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitfuleriya&label=Profile%20views&color=0e75b6&style=flat" alt="rohitfuleriya" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rohitfuleriya.github.io/My-Portfolio/](https://rohitfuleriya.github.io/My-Portfolio/)
 
-- 💬 Ask me about **SQL, Python, HTML CSS, JS, REACT**
+- 💬 Ask me about **HTML & HTML5 || CSS & CSS3 || TAILWIND CSS || JAVASCRIPT || REACT JS**
 
-- 📫 How to reach me **Rohitfuleriya2001@gmail.com**
+- 📫 How to reach me **Rohitfuleriyya@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1blg8cdjRfIcFBAxOy6raH98I2IlrzT00/view?usp=sharing](https://drive.google.com/file/d/1blg8cdjRfIcFBAxOy6raH98I2IlrzT00/view?usp=sharing)
 
